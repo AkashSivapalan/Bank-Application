@@ -1,0 +1,2 @@
+# Bank-Application
+This program is bank application that processes transactions for customers. There is login page for either a customer or manager to login. Logging into managers can add and deletes customers. Each customer added will have their own text file which is used for login and thus customer from customer info will be stored after closing program and can be accessed again. Logging in to a customer will allow the customer to deposit, withdraw, or make an purchase while updating the user.
